@@ -1,0 +1,5 @@
+@"
+music21==10.5.0
+torch==2.14.0
+numpy==2.5.3
+"@ | Set-Content requirements.txt
